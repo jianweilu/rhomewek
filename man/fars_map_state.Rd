@@ -18,7 +18,7 @@ internal functions needed are make_filename() and fars_read()
 external packages needed are:  dplyr,maps, graphics. functiion filter() from dplyr, map() from maps and points () from graphics are used.
 }
 \examples{
-state_num <- 49 # Utah
-yr <- 2014
+## state_num <- 49 # Utah
+## yr <- 2014
 
 }
