@@ -19,8 +19,7 @@ fars_read ()is a function that read in data from a csv file.
 FARS stand for "Fatality Analysis Reporting System" and is a nationwide census, providing the American public yearly data,
 regarding fatal injuries suffered in motor vehicle traffic crashes
 }
-\examples
- \dontrun{
-accident_2013.csv.bz2<-accident_2013.csv.bz2
-fars_read("accident_2013.csv.bz2")
+\examples{
+## accident_2013.csv.bz2<-accident_2013.csv.bz2
+## fars_read("accident_2013.csv.bz2")
 }
