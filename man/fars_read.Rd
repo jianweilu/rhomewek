@@ -20,8 +20,8 @@ FARS stand for "Fatality Analysis Reporting System" and is a nationwide census, 
 regarding fatal injuries suffered in motor vehicle traffic crashes
 }
 \examples{
-fars_read(accident_2013.csv.bz2)
-fars_read(accident_2014.csv.bz2)
-fars_read(accident_2015.csv.bz2)
+fars_read("accident_2013.csv.bz2")
+fars_read("accident_2014.csv.bz2")
+fars_read("accident_2015.csv.bz2")
 
 }
