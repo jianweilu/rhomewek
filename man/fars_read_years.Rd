@@ -21,7 +21,7 @@ internal functions need for fars_read_years are make_filename () in this code.
 external package needed is dplyr. Two functions of it are selection(),mutate().
 }
 \examples{
-fars_read_years(years = c(2013, 2015)
-fars_read_years(2013:2015)
+##fars_read_years(years = c(2013, 2015)
+##fars_read_years(2013:2015)
 
 }
