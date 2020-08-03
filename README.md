@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of FARS\_functions is to …
+This is an assignment for the Course 3 : Building R Packages. 
+The goal of FARS\_functions is to analyze FARS data
 
 ## Installation
 
