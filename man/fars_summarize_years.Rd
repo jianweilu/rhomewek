@@ -22,7 +22,7 @@ external package needed is dplyr and tidyr. Thre functions of dplyr are used :sb
 function spread() from tidyr is used as well.
 }
 \examples{
-fars_summarize_years(years = c(2013, 2015)
-fars_summarize_years(2013:2015)
+##fars_summarize_years(years = c(2013, 2015)
+##fars_summarize_years(2013:2015)
 
 }
