@@ -30,5 +30,5 @@ fars_2013_fn <- make_filename(2013)
 fars_2013 <- fars_read(fars_2013_fn) 
 dim(fars_2013)
 ```
-
-https://travis-ci.org/{{jianwei}}/{{rhomework}}
+## build passing image
+https://travis-ci.org/jianweilu/rhomewek.svg?branch=master
