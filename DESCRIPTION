@@ -9,6 +9,7 @@ Description: FARS data read and analysis. FARS stand for "Fatality Analysis Repo
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
+Imports: dplyr, maps, readr, tidyr
 Suggests: 
     testthat,
     knitr,
