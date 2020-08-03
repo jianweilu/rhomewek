@@ -30,5 +30,10 @@ fars_2013_fn <- make_filename(2013)
 fars_2013 <- fars_read(fars_2013_fn) 
 dim(fars_2013)
 ```
+
+##Vignettes
+
+This package is primarily built for educational purposes. The package enables one to explore fatal traffic accidents from 2013-2015 using data from the National Highway Traffic Safety Administration (NHTSA) Fatality Analysis Reporting System (FARS).
+
 ## build passing image from travis
 https://travis-ci.org/jianweilu/rhomewek.svg?branch=master
